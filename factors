@@ -1,5 +1,5 @@
-
-m sys import argv
+#!/usr/bin/python3
+from sys import argv
 from math import sqrt
 
 
@@ -23,7 +23,3 @@ def factor():
 
 
 factor()
-
-    © 2022 GitHub, Inc.
-
-    T
